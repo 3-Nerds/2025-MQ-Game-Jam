@@ -36,5 +36,3 @@ This game was created over 48 hours as part of the MQ Game Jam held on campus fr
 ## Credits
 
 * Any pre-existing or third-party assets used are credited here.
-
-![Giving you up, :()](https://tenor.com/bEWOf.gif)
